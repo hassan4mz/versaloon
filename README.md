@@ -1,4 +1,4 @@
-[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
+[![noswpatv3](https://upload.wikimedia.org/wikipedia/commons/0/04/2019_Hong_Kong_protest_banner.svg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 
 About
 =====
