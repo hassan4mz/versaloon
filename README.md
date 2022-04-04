@@ -1,5 +1,3 @@
-[![noswpatv3](https://upload.wikimedia.org/wikipedia/commons/0/04/2019_Hong_Kong_protest_banner.svg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
-
 About
 =====
 
