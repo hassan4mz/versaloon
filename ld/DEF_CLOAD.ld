@@ -10,8 +10,8 @@ You can use, copy and distribute this file freely, but without any waranty.
 
 MEMORY
 {
-  RAM (xrw) : ORIGIN = 0x20000000, LENGTH = 20K
-  FLASH (rx) : ORIGIN = 0x8000000, LENGTH = 128K
+  RAM (xrw) : ORIGIN = 0x10000000, LENGTH = 10K
+  FLASH (rx) : ORIGIN = 0x2000000, LENGTH = 32K
   FLASHPATCH (r) : ORIGIN = 0x00000000, LENGTH = 0
   ENDFLASH (rx)  : ORIGIN = 0x00000000, LENGTH = 0
   FLASHB1  (rx)  : ORIGIN = 0x00000000, LENGTH = 0
